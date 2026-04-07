@@ -1,5 +1,5 @@
 name = "Tanu"
-age = "20" # BUG 1: age should be a number (int), not text (string)
+age = "20" # BUG 1: age should be a number (int), not text (string
 def greet(name):
 print(f"Hello, {name}!") # BUG 2: this line is not indented — Python needs indentation
 def check_age(age):
